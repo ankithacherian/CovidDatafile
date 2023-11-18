@@ -1,2 +1,1 @@
-# gokulvijayakumar.github.io
-the webpage
+Covid data from different countries
